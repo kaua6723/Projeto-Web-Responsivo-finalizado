@@ -26,17 +26,3 @@ Este projeto web faz parte de uma atividade acadêmica onde utilizamos HTML, CSS
 2. **Alteração de Tema**
    - **Prompt:** "Como implementar um botão que altera o tema de um site (modo claro/escuro)?"
    - **Como a IA Contribuiu:** A IA forneceu o código necessário para alternar o tema do site adicionando uma classe ao elemento `<body>`, permitindo a aplicação de estilos diferentes para os modos claro e escuro.
-
-## Capturas de Tela
-
-### Tela Inicial
-![Tela Inicial](./img/pagina_inicial.png)
-
-### Formulário de Contato
-![Formulário de Contato](./img/formulario_contato.png)
-
-### Modo Escuro
-![Modo Escuro](./img/modo_escuro.png)
-
-## Video de apresentação
-![video_apresentação](./video_de_apresentação/video_do_site.mp4)
